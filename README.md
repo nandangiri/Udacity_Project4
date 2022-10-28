@@ -23,10 +23,12 @@ For this project We would be looking at predicting customer churn viz. customer 
 
 ### File/Deliverable Descriptions
 1. Readme File
-2. Blog Post
-3. HTML File
-4. ipny
+2. Blog Post # submitted on medium and link in the end of file
+3. Sparkify.html # HTML version of Sparkify.ipynb
+4. Sparkify.ipynb #Python notebook
 
 ### Medium Blog Post
 The main findings of the code can be found at the Medium Blog post available here explaining the technical details of my project. A Random Forest Classifier was chosen to be the best model by evaluating F1 score and accuracy metrics. The final model achieved an F1 and Accuracy score of 0.88
 Link: [https://medium.com/@gauravnandangiri1992/predicting-churn-using-spark-efd02049f4cd]
+
+GitHUb Link: https://github.com/nandangiri/Udacity_Project4
